@@ -1,0 +1,10 @@
+.messageHead{
+  width: fit-content;
+  padding: 5px 10px;
+  display: flex;
+  flex-flow: row;
+  justify-content: baseline;
+  align-items: center;
+  background-color: rgba(121, 225, 18, 0.254);
+  border-radius: 0.5em;
+}

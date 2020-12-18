@@ -1,0 +1,11 @@
+.message{
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  border-width: thin;
+  border-style: solid;
+  border-color: rgba(144, 238, 144, 0.371);
+  border-radius: 0.2em;
+  padding: 5px ;
+  box-shadow: 2px 2px 5px rgba(25, 26, 25, 0.207);
+}

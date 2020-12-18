@@ -1,0 +1,30 @@
+.chatForm{
+  width: 100%;
+  margin-left: 2%;
+}
+
+.chatInput{
+  box-sizing: border-box;
+  width: 80%;
+  height: 40px;
+  padding: 5px 10px;
+}
+
+.handleSubmit{
+  appearance: none;
+  border-radius: 0 0.5em 0.5em 0;
+  width:15%;
+  height: 38px;
+  padding: 5px 10px;
+  text-align: center;
+  outline: none;
+  border-style: none;
+  box-shadow: 4px 4px 5px rgba(135, 214, 135, 0.57);
+  background: #a8ff78;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.handleSubmit:hover{
+  opacity: 0.75;
+}

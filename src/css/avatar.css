@@ -1,0 +1,10 @@
+/* .avatarContainer{
+  width: 60px;
+  height: 60px;
+  margin-right: 5px;
+} */
+.avatar{
+  width: 35px;
+  height: 40px;
+  border-radius: 50%
+}

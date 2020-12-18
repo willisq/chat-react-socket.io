@@ -1,0 +1,51 @@
+.mediaCard{
+  width: 300px;
+  box-shadow: 5px 8px 10px rgba(196, 191, 191, 0.611);
+  padding : 6px 15px;
+  border-style: outset;
+  border-width: thin;
+  border-color: rgba(143, 145, 145, 0.397);
+}
+
+.autorInfo{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+  justify-content: flex-start;
+  padding: 2px 5px;
+  height: 80px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  border-color: rgba(169, 165, 165, 0.37);
+}
+
+.footerMedia{
+  width: 100%;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mediaLink{
+ font-size: 15px;
+ text-decoration: none;
+ color: rgb(130, 129, 129);
+ font-style: none;
+ padding: 6px;
+ border-style: solid;
+ border-width: thin;
+ border-color: transparent;
+}
+
+.mediaLink:hover{
+  color:  rgb(82, 80, 80);
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(82, 80, 80);
+  background-color: rgba(219, 215, 215, 0.152);
+  transition: all linear 0.3s;
+}

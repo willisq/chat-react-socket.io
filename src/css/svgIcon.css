@@ -1,0 +1,21 @@
+.svgIcon{
+  width: 30px;
+  height: 30px;
+}
+
+.likeArm{
+  fill: rgb(56, 109, 223);
+}
+.likeHand{
+  fill: white;
+  stroke: black;
+  stroke-width: thin;
+}
+
+.heart{
+  fill: rgba(153, 5, 5, 0.726);
+}
+
+.heart:hover{
+  fill: rgba(230, 23, 23, 0.726);
+}

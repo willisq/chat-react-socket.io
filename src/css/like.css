@@ -1,0 +1,18 @@
+.likeDiv{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 45px;
+  width: 50px;
+}
+
+.like{
+  width: 40px;
+  height: 25px;
+}
+
+.numberLikes{
+  font-size: 18px;
+  font-family: Arial;
+}

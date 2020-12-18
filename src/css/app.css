@@ -1,0 +1,15 @@
+.chat{
+  height: 100%;
+}
+
+
+.messageElement{
+  text-decoration: none;
+  list-style: none;
+  padding: 5px 10px;
+}
+
+.chatList{
+  height: 100%;
+  overflow-y: auto;
+}
